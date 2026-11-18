@@ -2,6 +2,7 @@
 
 > **接续入口（换会话先读这一行）**：项目根 `C:\Users\Administrator\WorkBuddy\2026-11-18-23-09-16\blue-white\`（仓库 `https://github.com/yuriws/blue-white`）
 > 决策 `feasibility.md` → 设定／形象／章号映射／伏笔／感情节点 `GLOSSARY.md` → 规则 `RULES.md` → 开篇细纲 `outline.md` → 正文 `text/vol-001.md` → 批尾 `notes/batch-NN.md`
+> **并行分工（2026-11-18 用户决定）**：另两会话改写新 1—199 与 200—399；本会话负责新 400 起，已按原 471—480 成稿新 400—409（正文 `text/vol-004.md`／`vol-005.md`，批尾 `notes/batch-02.md`）。新 121—399 交界与 vol-001 续写口径由并行会话维护；新 399→400 交界待并行完成后统一复核。
 
 ## 采用版本
 
