@@ -12,3 +12,4 @@ text/_*.md
 Thumbs.db
 *.swp
 *~
+tmp/
